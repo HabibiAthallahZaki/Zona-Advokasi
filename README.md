@@ -1,6 +1,3 @@
-# Zona-Advokasi
-[HTMLPage1.html](https://github.com/user-attachments/files/29365547/HTMLPage1.html)
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
